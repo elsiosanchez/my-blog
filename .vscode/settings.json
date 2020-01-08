@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "myvenv/bin/python3",
+    "python.pythonPath": "/home/erp-06/djangoboys/venv/bin/python3",
     "git.ignoreLimitWarning": true
 }
